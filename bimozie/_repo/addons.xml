@@ -40,5 +40,6 @@
             <summary>A short summary of this repository</summary>
             <description>The description can be longer. Using [CR] you can create a newline. The use of other markup is not advised.</description>
             <platform>all</platform>
-    </extension>	
+		</extension>
+	</addon>
 </addons>
