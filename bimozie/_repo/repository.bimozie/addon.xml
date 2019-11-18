@@ -6,7 +6,7 @@
         <extension point="xbmc.addon.repository" name="Bimozie Sviet">
             <info compressed="false">https://raw.githubusercontent.com/sviet2k/kodi.repository/master/bimozie/_repo/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/sviet2k/kodi.repository/master/bimozie/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/sviet2k/kodi.repository/tree/master/bimozie/_repo</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/sviet2k/kodi.repository/master/bimozie/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
